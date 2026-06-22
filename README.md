@@ -1,8 +1,8 @@
-# Mobile Proxies: 4G and 5G Carrier IPs, Rotating and Static
+# Mobile Proxies
 
 A practical reference for **mobile proxies**: what a 4G mobile proxy is, how 3G, 4G, and 5G differ, when to pick rotating over static, and how to connect in Python, Node.js, and cURL. Mobile proxies route through real mobile carrier IPs, which gives them the highest trust of any proxy type for mobile-first platforms and apps.
 
-The target keywords for this repo are mobile proxies, 4g mobile proxy, 4g proxy, and rotating mobile proxies. Proxy-Cheap is the reference service, with per-GB pay-as-you-go billing on its rotating mobile line.
+The target keywords for this repo are mobile proxies, 4g mobile proxy, 4g proxy, and rotating mobile proxies. [Proxy-Cheap](https://www.proxy-cheap.com/) is the reference service, with per-GB pay-as-you-go billing on its rotating mobile line.
 
 ## What a 4G mobile proxy is
 
